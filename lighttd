@@ -1,3 +1,5 @@
+# Created by @OrlandoHC (Masterk3y) May 2015 Lighttpd N900 Update 
+# Info --- www.orlandohc.org
 description "lighttpd - a lightweight web server"
 
 start on stopped rcS
